@@ -2,6 +2,15 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+/* Fuente del Navbar */
+.marca {
+  font-family: 'Lobster', cursive;
+}
+
+.margen-Acerca-de-mi {
+  height: 25px;
+}
+
 /* Hero Section */
 
 #Hero-Section {
@@ -13,7 +22,7 @@ body {
 
 /* Mis trabajos */
 
-#Mis-trabajos .image-top {
+#Experiencia-laboral .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
